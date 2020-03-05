@@ -1,4 +1,4 @@
-# sotw-pdx.github.io
+# smokeonthewaterpdx.github.io
 Github website for SOTW
 
 Dimension by HTML5 UP
